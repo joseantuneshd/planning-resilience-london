@@ -8,6 +8,6 @@
 - Geographic boundaries of London boroughs used for spatial visualization of shock frequency and average resilience.
 
 
-Notes
+**Notes**
 - Raw Planning London Datahub extracts are not included in the public repository.
 - The processed analytical dataset is derived from application-level planning records and is used for the descriptive, resilience, and modelling analyses reported in the thesis.
