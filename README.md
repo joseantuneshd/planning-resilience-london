@@ -11,11 +11,9 @@ This repository contains the data pipeline and modelling framework used to const
   - `04_modeling_framework.ipynb`: modelling, evaluation, and interpretability
 
 - `data/`
-  - sample or processed data files
-  - documentation about excluded raw files
+  - `processed/borough_month_panel_resilience_inputs.csv`: final processed borough–month analytical dataset
+  - `geo/london_boroughs.geojson`: borough boundaries used for mapping
 
-- `figures/`
-  - selected figures used in the analysis
 
 ## Workflow
 
