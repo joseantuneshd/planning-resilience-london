@@ -7,3 +7,6 @@ xgboost
 shap
 ydata-profiling
 jupyter
+geopandas
+statsmodels
+scipy
