@@ -23,7 +23,3 @@ This repository contains the data pipeline and modelling framework used to const
 2. Apply preprocessing and construct the borough–month panel
 3. Explore descriptive patterns
 4. Train and evaluate forecasting models
-
-## Notes
-
-Some notebook paths currently reflect the local development environment and will be converted to repository-relative paths during the final repository cleanup stage.
