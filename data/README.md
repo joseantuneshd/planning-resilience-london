@@ -1,10 +1,10 @@
 # Data files
 
-processed/borough_month_panel_resilience_inputs.csv
+**processed/borough_month_panel_resilience_inputs.csv**
 - Processed borough-month analytical dataset used in the thesis. Includes performance measures, shock variables, baseline variables, impact variables, and the Resilience Index.
 
 
-geo/london_boroughs.geojson
+**geo/london_boroughs.geojson**
 - Geographic boundaries of London boroughs used for spatial visualization of shock frequency and average resilience.
 
 
